@@ -98,6 +98,16 @@ Access Project
 
 http://localhost/project-root/signup.html
 
+![WhatsApp Image 2025-10-01 at 08 28 46_a0b1b13b](https://github.com/user-attachments/assets/4d312b3e-7622-4c7b-af4b-d2e1e4c6673b)
+
+
+![WhatsApp Image 2025-09-30 at 17 27 14_42d36100](https://github.com/user-attachments/assets/4e71bf6d-d9ce-4dd2-8c0d-2010e22b22bc)
+
+![WhatsApp Image 2025-09-30 at 09 18 21_9541f503](https://github.com/user-attachments/assets/dd51802a-6760-476d-8baa-980e069d078d)
+
+
+
+
 🔑 Login Flow
 Register via signup.html.
 
